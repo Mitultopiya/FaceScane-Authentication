@@ -1,6 +1,6 @@
 # FaceScane Auth
 
-Production-ready authentication system with password login, face scan authentication, JWT sessions, and admin dashboard.
+Production-ready authentication system with password login, face scan authentication, JWT sessions, and admin dashboard...
 
 ## Tech Stack
 
