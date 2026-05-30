@@ -182,7 +182,3 @@ VITE_API_URL=http://localhost:5000/api
 - Rate limiting on auth endpoints (10 req/15min)
 - Parameterized SQL queries prevent injection
 - Email enumeration prevented on forgot password
-
-## License
-
-MIT
